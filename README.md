@@ -57,7 +57,7 @@ Connect travelers going to **the same destinations**.
 
 ## ⚡ Fun Facts & Hobbies
 
-- Gym enthusiast 💪 (Chest, Back, Shoulders focus)  
+- Gym enthusiast 💪   
 - Coding while listening to music 🎧  
 - Exploring React Native & Mobile App Development 📱  
 - Always learning and building new things 🚀  
