@@ -32,9 +32,9 @@ A complete portal for **DSA practice, resume tips, and HR interview questions**.
 <img src="https://user-images.githubusercontent.com/your-image-link-here.png" alt="Tek Ride" width="400" />  
 Multi-language cab booking system with **offline booking support**.
 
-### 4. [Finding Travel Companion](https://github.com/Abhishek5632/Finding-Travel-Companion)  
-<img src="https://user-images.githubusercontent.com/your-image-link-here.png" alt="Travel Companion" width="400" />  
+### 4. [Finding Travel Companion](https://github.com/Abhishek5632/Finding-Travel-Companion) 
 Connect travelers going to **the same destinations**.
+Url-(https://travelbuddy-hluu.onrender.com/find-companion.html)
 
 ---
 
