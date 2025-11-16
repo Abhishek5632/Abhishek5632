@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abhishek Dixit
 
-Welcome to my GitHub! I’m a **2nd-year IT student** passionate about **web & app development, problem-solving, and building real-world projects**.  
+Welcome to my GitHub! I’m a **3rd-year IT student** passionate about **web & app development, problem-solving, and building real-world projects**.  
 
 ---
 
